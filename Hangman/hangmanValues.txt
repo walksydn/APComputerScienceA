@@ -1,0 +1,6 @@
+Dog
+Cat
+Wow
+Tired
+Exhausted
+Java

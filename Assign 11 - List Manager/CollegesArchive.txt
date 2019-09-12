@@ -1,0 +1,5 @@
+Brown;City;3.98;1530;1200;5
+MIT;City;4.2;1520;11367;7
+SUNY Buffalo;City;3.5;1420;15000;50
+Genesco;Rural;3.9;1480;13000;55
+WPI;City;3.84;1370;4432;61
